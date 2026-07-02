@@ -30,7 +30,7 @@ layout:
 
 {% columns %}
 {% column width="50%" %}
-## Get started in minutes
+## Set up your API
 
 Make your first API call in under 5 minutes.
 
